@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.bg{
+     background-image: url('../image/bacc\ 66.jpeg');
+    background-size: cover;
+}
+.gradient {
+
+    color: cyan;
+    padding: 20px;
+}
